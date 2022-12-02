@@ -39,7 +39,7 @@ body .container .line {
 }
 body .container .dice {
   position: absolute;
-  left: 46%;
+  left: 47.5%;
   width: 67px;
   height: 67px;
   z-index: 1;
