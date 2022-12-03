@@ -52,5 +52,5 @@ Users should be able to:
 - Yoseph Negash
 - Telegram - [@yosephn22](https://t.me/yosephn22)
 - Frontend Mentor - [@joss413](https://www.frontendmentor.io/profile/joss413)
-- GetHub - [@joss413](https://github.com/joss413)
+- GitHub - [@joss413](https://github.com/joss413)
 - Linkedin - [@joss413](https://www.linkedin.com/in/yoseph-negash-8573b6251)
